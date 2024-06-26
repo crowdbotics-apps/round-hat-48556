@@ -77,6 +77,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-openai](backend/modules)
 - [django-s3-file-uploader](backend/modules)
 - [django-typeform-webhook](backend/modules)
+- [faq]()
 
 # Getting started: Frontend
 
