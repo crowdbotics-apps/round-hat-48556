@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a82306041be63b2da0fbf7a1df99bb66bcea4499ea4a568194df2fc21cda4468"
+            "sha256": "749d61f43178144fc09311e6ffa0000f83f57e42834fe51f3151ca48b006c728"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -99,6 +99,10 @@
         "cb-django-core": {
             "editable": true,
             "path": "./modules/django_core"
+        },
+        "cb-django-disqus": {
+            "editable": true,
+            "path": "./modules/django_disqus"
         },
         "cb-django-files": {
             "editable": true,
