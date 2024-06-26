@@ -76,6 +76,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-disqus](backend/modules)
 - [django-openai](backend/modules)
 - [django-s3-file-uploader](backend/modules)
+- [django-typeform-webhook](backend/modules)
 
 # Getting started: Frontend
 
